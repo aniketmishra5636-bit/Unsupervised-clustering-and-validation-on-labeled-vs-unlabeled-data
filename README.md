@@ -1,0 +1,2 @@
+# Unsupervised-clustering-and-validation-on-labeled-vs-unlabeled-data
+This project focuses on Unsupervised Machine Learning by performing K-Means Clustering on unlabeled data and validating the results using both internal and external metrics. The highlight of this project is the use of the Silhouette Score to mathematically prove the quality of the clusters before comparing them with the actual output.
